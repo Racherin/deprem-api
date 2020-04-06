@@ -29,5 +29,7 @@ JSON Çıktısı:
     	"Nitelik": "İlksel"
     }, ... ]
     
+CSV Yazdırma Opsiyonu :
+-   writecsv.py ile JSON çıktınızı il ve bölgelerine ayrılmış şekilde CSV formatında yazdırabilirsiniz.
 
 
