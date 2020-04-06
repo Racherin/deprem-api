@@ -25,9 +25,9 @@ for i in range(200):
                 'buyukluk':float((current['Buyukluk']['ML'])),
                 'derinlik':float(current['Derinlik(km)'])
             }
-        if True:
+        if data['depremler'][i]['Tarih']  == yesterdays_time:
             yesterdays_earthquake.append(earthquake) #Dün yaşanan tüm depremler
-with open('data/{}.csv'.format('ALL'), 'w' , newline='', encoding="utf-8") as file :
+with open('data/{}.csv'.format(yesterdays_time_format), 'w' , newline='', encoding="utf-8") as file :
     writer = csv.writer(file)
     writer.writerow(["Date","Hour","Latitude","Longitude","Magnitude","Depth","Location","Area"])
     for i in yesterdays_earthquake :
