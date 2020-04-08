@@ -15,7 +15,7 @@ yesterdays_time = (datetime.datetime.now() - timedelta(1)).strftime('%Y/%m/%d').
 yesterdays_earthquake=[]
 yesterdays_time_format = yesterdays_time.replace(".","")
 all_eq = []
-for i in range(len(data['depremler'])):
+for i in range(200):
         current = data['depremler'][i]
         earthquake = {
                 'city':current['Yer'],
@@ -26,11 +26,12 @@ for i in range(len(data['depremler'])):
                 'buyukluk':float((current['Buyukluk']['ML'])),
                 'derinlik':float(current['Derinlik(km)'])
             }
-        all_eq.append(earthquake)
-with open('data/{}.csv'.format('ALL'), 'w' , newline='', encoding="utf-8") as file :
+        if data['depremler'][i]['Tarih']  == yesterdays_time:
+            yesterdays_earthquake.append(earthquake)
+with open('data/{}.csv'.format(yesterdays_time_format), 'w' , newline='', encoding="utf-8") as file :
     writer = csv.writer(file)
     writer.writerow(["Date","Hour","Latitude","Longitude","Magnitude","Depth","Location","Area"])
-    for i in all_eq :
+    for i in yesterdays_earthquake :
         try :
             area = geolocator.geocode(i['city'])
             if str(str(area.address).split(',')[-2].strip()).startswith(('0', '1', '2', '3', '4', '5', '6', '7', '8', '9')) and str(area.address).split(',')[3] != 'Türkiye' :
