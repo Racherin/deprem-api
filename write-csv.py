@@ -4,6 +4,7 @@ import datetime
 from datetime import timedelta
 from geopy import Nominatim
 import re
+import subprocess as cmd
 
 
 
@@ -53,3 +54,13 @@ with open('data/{}.csv'.format(yesterdays_time_format), 'w' , newline='', encodi
             continue
         
     pass
+
+cp = cmd.run("git add .", check=True, shell=True)
+#print(cp)
+
+message = "update the repository"
+
+
+
+cp = cmd.run(f"git commit -m '{message}'", check=True, shell=True)
+cp = cmd.run("git push -u origin master -f", check=True, shell=True)
