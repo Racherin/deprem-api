@@ -62,5 +62,5 @@ message = "update the repository"
 
 
 
-cp = cmd.run(f"git commit -m '{message}'", check=True, shell=True)
+cp = cmd.run("git commit -m 'update'", check=True, shell=True)
 cp = cmd.run("git push -u origin master -f", check=True, shell=True)
