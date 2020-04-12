@@ -59,6 +59,7 @@ cp = cmd.run("git add .", check=True, shell=True)
 #print(cp)
 
 message = "update the repository"
+test = 'a'
 
 
 
