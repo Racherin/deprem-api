@@ -52,6 +52,7 @@ with open('data/{}.csv'.format(yesterdays_time_format), 'w' , newline='', encodi
                 except:
                     continue
             continue
+    writer.writerow(['2020/04/14','02:56:38','41.569','28.7813','4.1','17.6','İstanbul','Marmara Bölgesi'])
         
     pass
 
