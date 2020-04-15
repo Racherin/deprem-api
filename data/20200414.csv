@@ -1,0 +1,38 @@
+Date,Hour,Latitude,Longitude,Magnitude,Depth,Location,Area
+2020/04/14,23:46:01,37.1327,30.2458,3.1,96.3,Antalya,Akdeniz Bölgesi
+2020/04/14,23:11:21,38.3737,38.8600,2.2,10.9,Malatya,Doğu Anadolu Bölgesi
+2020/04/14,22:57:59,38.4278,38.9672,1.6,17.6,Elazığ,Doğu Anadolu Bölgesi
+2020/04/14,22:39:10,39.9908,42.5743,2.6,5.4,Kars,Doğu Anadolu Bölgesi
+2020/04/14,22:36:56,39.9953,42.5468,1.9,5.0,Erzurum,Doğu Anadolu Bölgesi
+2020/04/14,22:31:39,39.7870,42.1493,1.7,5.0,Erzurum,Doğu Anadolu Bölgesi
+2020/04/14,22:14:25,40.0237,42.5883,1.8,5.0,Kars,Doğu Anadolu Bölgesi
+2020/04/14,21:51:47,40.6990,34.7002,2.0,19.0,Çorum,Karadeniz Bölgesi
+2020/04/14,21:02:51,40.0043,42.5715,3.3,5.0,Kars,Doğu Anadolu Bölgesi
+2020/04/14,19:47:16,39.0320,27.8347,1.5,20.5,Manisa,Ege Bölgesi
+2020/04/14,19:39:27,37.4692,35.9980,1.5,15.4,Osmaniye,Akdeniz Bölgesi
+2020/04/14,19:29:02,40.5203,35.5082,3.3,7.6,Çorum,Karadeniz Bölgesi
+2020/04/14,18:47:16,38.3593,38.9060,2.6,16.9,Malatya,Doğu Anadolu Bölgesi
+2020/04/14,17:50:47,38.3718,38.8727,1.8,23.4,Malatya,Doğu Anadolu Bölgesi
+2020/04/14,16:57:22,39.2938,40.8905,2.9,12.1,Bingöl,Doğu Anadolu Bölgesi
+2020/04/14,16:02:29,36.3788,27.7848,1.6,5.0,Mersin,Akdeniz Bölgesi
+2020/04/14,13:30:09,39.0888,27.8640,1.5,8.3,Manisa,Ege Bölgesi
+2020/04/14,13:28:10,39.0595,27.8235,1.6,11.5,Manisa,Ege Bölgesi
+2020/04/14,13:09:08,38.4055,39.1428,1.9,5.0,Elazığ,Doğu Anadolu Bölgesi
+2020/04/14,12:58:38,37.4267,40.3228,2.1,5.0,Mardin,Güneydoğu Anadolu Bölgesi
+2020/04/14,12:33:05,37.2655,31.7865,1.9,0.0,Antalya,Akdeniz Bölgesi
+2020/04/14,11:57:04,39.6148,31.3983,1.3,5.3,Sivrihisar,İç Anadolu Bölgesi
+2020/04/14,11:56:22,38.9633,27.8873,1.9,7.3,Manisa,Ege Bölgesi
+2020/04/14,11:52:28,37.2662,28.3683,2.0,6.8,Muğla,Ege Bölgesi
+2020/04/14,11:01:50,38.4873,39.3378,1.9,3.0,Elazığ,Doğu Anadolu Bölgesi
+2020/04/14,10:04:24,37.4992,35.9848,1.8,16.1,Osmaniye,Akdeniz Bölgesi
+2020/04/14,09:14:35,40.1717,26.2132,2.8,5.0,Çanakkale,Marmara Bölgesi
+2020/04/14,08:09:59,38.4227,39.2678,1.9,9.9,Elazığ,Doğu Anadolu Bölgesi
+2020/04/14,08:02:11,39.1088,27.7937,2.1,8.9,Manisa,Ege Bölgesi
+2020/04/14,07:54:14,38.5137,39.2860,1.1,14.8,Elazığ,Doğu Anadolu Bölgesi
+2020/04/14,04:38:35,39.6120,39.7298,2.3,9.4,Erzincan,Doğu Anadolu Bölgesi
+2020/04/14,04:18:44,40.6600,35.3173,1.8,16.6,Çorum,Karadeniz Bölgesi
+2020/04/14,03:50:46,39.5343,28.8098,1.9,6.7,Balıkesir,Marmara Bölgesi
+2020/04/14,02:55:43,38.4320,38.9758,1.7,16.5,Elazığ,Doğu Anadolu Bölgesi
+2020/04/14,01:56:52,38.3890,38.8748,1.7,25.6,Malatya,Doğu Anadolu Bölgesi
+2020/04/14,00:26:37,39.1053,27.8002,1.6,11.7,Manisa,Ege Bölgesi
+2020/04/14,00:26:15,38.3172,39.0535,1.8,9.5,Malatya,Doğu Anadolu Bölgesi
