@@ -1,0 +1,43 @@
+Date,Hour,Latitude,Longitude,Magnitude,Depth,Location,Area
+2020/04/28,18:21:38,40.2513,27.0893,2.3,3.1,Çanakkale,Marmara Bölgesi
+2020/04/28,16:35:38,38.4063,39.1255,1.2,7.2,Elazığ,Doğu Anadolu Bölgesi
+2020/04/28,16:27:13,39.1083,27.6202,1.8,0.0,Manisa,Ege Bölgesi
+2020/04/28,16:00:25,38.2362,38.8513,1.6,11.9,Malatya,Doğu Anadolu Bölgesi
+2020/04/28,15:50:09,37.8577,30.6012,1.8,12.1,Isparta,Akdeniz Bölgesi
+2020/04/28,15:35:05,37.3972,30.6423,1.6,1.1,Burdur,Akdeniz Bölgesi
+2020/04/28,15:19:03,39.0132,29.8193,1.7,9.9,Kütahya,Ege Bölgesi
+2020/04/28,14:34:54,39.0413,27.8440,1.9,6.2,Manisa,Ege Bölgesi
+2020/04/28,14:33:06,35.7347,27.9453,2.2,26.7,Mersin,Akdeniz Bölgesi
+2020/04/28,14:30:37,38.0552,36.4905,1.9,8.1,Kahramanmaraş,Akdeniz Bölgesi
+2020/04/28,14:12:03,39.4553,28.0755,1.2,5.4,Balıkesir,Marmara Bölgesi
+2020/04/28,13:42:27,38.6027,27.3095,1.4,16.9,Manisa,Ege Bölgesi
+2020/04/28,13:13:20,41.1092,28.8668,1.2,0.0,İstanbul,Marmara Bölgesi
+2020/04/28,13:05:04,39.6818,30.6925,1.8,0.0,Odunpazarı,İç Anadolu Bölgesi
+2020/04/28,12:40:41,37.7242,27.3923,1.3,8.1,Aydın,Ege Bölgesi
+2020/04/28,12:38:36,39.9115,28.8930,1.3,0.0,Bursa,Marmara Bölgesi
+2020/04/28,12:34:43,37.2725,31.9133,2.2,0.0,Konya,İç Anadolu Bölgesi
+2020/04/28,12:21:29,37.1275,37.4792,2.0,0.0,Gaziantep,Güneydoğu Anadolu Bölgesi
+2020/04/28,12:19:32,37.2275,28.2332,1.5,0.0,Muğla,Ege Bölgesi
+2020/04/28,12:19:20,37.7837,27.4107,1.5,5.0,Ege Bölgesi,AYDIN CAD. NOVADA SÖKE ALIŞVERIŞ MERKEZI
+2020/04/28,12:01:34,36.6378,36.2242,1.4,9.4,İskenderun,Akdeniz Bölgesi
+2020/04/28,11:38:47,40.7532,34.6908,1.7,24.6,Çorum,Karadeniz Bölgesi
+2020/04/28,10:52:01,39.8613,39.0362,1.9,9.8,Erzincan,Doğu Anadolu Bölgesi
+2020/04/28,10:12:54,38.1348,38.9383,0.7,21.7,Malatya,Doğu Anadolu Bölgesi
+2020/04/28,10:01:24,37.9368,37.7477,1.6,5.0,Malatya,Doğu Anadolu Bölgesi
+2020/04/28,09:42:22,38.2927,38.7548,1.0,21.6,Malatya,Doğu Anadolu Bölgesi
+2020/04/28,08:54:43,38.4448,39.2207,3.3,5.2,Elazığ,Doğu Anadolu Bölgesi
+2020/04/28,07:53:58,38.4797,39.3778,1.4,17.9,Elazığ,Doğu Anadolu Bölgesi
+2020/04/28,07:46:54,38.2290,38.7880,2.9,1.9,Malatya,Doğu Anadolu Bölgesi
+2020/04/28,07:37:35,38.2900,38.7732,2.1,12.1,Malatya,Doğu Anadolu Bölgesi
+2020/04/28,07:32:22,38.0098,37.9705,2.7,5.0,Malatya,Doğu Anadolu Bölgesi
+2020/04/28,07:09:26,38.3838,39.0582,2.4,5.4,Elazığ,Doğu Anadolu Bölgesi
+2020/04/28,06:42:12,39.8248,42.3238,1.9,4.9,Ağrı,Doğu Anadolu Bölgesi
+2020/04/28,06:30:35,38.2663,44.4063,2.4,9.5,Van,Doğu Anadolu Bölgesi
+2020/04/28,06:27:42,40.1253,31.8048,2.2,7.9,Ankara,İç Anadolu Bölgesi
+2020/04/28,06:22:22,38.9735,26.7637,1.8,10.0,İzmir,Ege Bölgesi
+2020/04/28,05:58:08,38.4033,39.1288,2.3,6.0,Elazığ,Doğu Anadolu Bölgesi
+2020/04/28,03:26:47,39.1622,36.6335,2.4,2.1,Sivas,İç Anadolu Bölgesi
+2020/04/28,01:54:41,40.0802,28.6017,1.9,5.4,Bursa,Marmara Bölgesi
+2020/04/28,01:15:28,39.8197,42.2993,2.8,11.0,Ağrı,Doğu Anadolu Bölgesi
+2020/04/28,01:09:44,35.9265,30.7010,2.9,5.3,Mersin,Akdeniz Bölgesi
+2020/04/28,01:05:56,39.5837,26.0608,2.8,4.2,Çanakkale,Marmara Bölgesi
